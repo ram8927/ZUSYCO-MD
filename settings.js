@@ -16,10 +16,10 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94740849911",
+  OWNER_NUMBER: "917047294917",
   SUDO_NUMBERS : "917865054966,917047294917",
-  OWNER_NAME: "『 ᴅᴜᴍɪʏᴀ 』",
-  BOT_NAME : "ᴅᴜᴍɪʏᴀ md",
+  OWNER_NAME: "『 RAM CARAN 』",
+  BOT_NAME : "S MUSIC md",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -31,7 +31,7 @@ module.exports = {
         GOODBYE_MESSAGE : false
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
-  TIME_ZONE :  "Asia/Colombo",
+  TIME_ZONE :  "Asia/KOLKATA",
   WORK_TYPE : "public",
   WORK_MODE : "allchats",
   WORK_MODE_MESSAGE_SEND : false,
